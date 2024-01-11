@@ -26,7 +26,3 @@ If both the player and the computer choose the same option, it is a tie. The gam
 ## Author
 
 Uchenna Justin
-
-## License
-
-MIT License
